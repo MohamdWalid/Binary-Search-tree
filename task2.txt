@@ -1,0 +1,15 @@
+eat 10
+pray 1
+play 2
+work 8
+search 16
+drink 50
+sleep 14
+read 5
+shopping 40
+cooking 90
+hanggingOut 85
+watching 110
+datting 500
+cleanning 35
+marring 69

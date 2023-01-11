@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610036561 source:c:\users\moham\desktop\task2-ds\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+
